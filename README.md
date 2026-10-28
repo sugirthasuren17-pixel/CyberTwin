@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CyberTwin — Interactive Cyberattack Simulator
 **Team:** OBSIDIAN NEXORA · **Event:** Cryptathon ’26  
 **Tagline:** Detect the Threat. Preserve the Evidence. Take Back Control.
@@ -35,3 +36,7 @@ For immediate danger, contact a trusted person, campus authority, or appropriate
 ## Checks
 Backend tests: `cd backend && pytest`
 Frontend production build: `cd frontend && npm run build`
+=======
+# CyberTwin
+Explainable cybersecurity analysis platform
+>>>>>>> a68eb75b3ab1679484b713a34306b235369c08b2
